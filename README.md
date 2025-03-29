@@ -29,7 +29,3 @@ This project aims to improve model performance by:
 Our research shows that combining Optuna and sampling techniques significantly improves model performance on imbalanced datasets. We observed improvements in metrics such as F1-score and AUC.
 
 For detailed results and visualizations, please refer to the associated research paper.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with your suggestions or improvements.
